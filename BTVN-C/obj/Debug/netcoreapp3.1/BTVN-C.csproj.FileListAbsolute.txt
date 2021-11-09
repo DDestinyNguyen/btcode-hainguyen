@@ -1,0 +1,14 @@
+C:\Users\DestinyNguyen\source\repos\BTVN-C\BTVN-C\bin\Debug\netcoreapp3.1\BTVN-C.exe
+C:\Users\DestinyNguyen\source\repos\BTVN-C\BTVN-C\bin\Debug\netcoreapp3.1\BTVN-C.deps.json
+C:\Users\DestinyNguyen\source\repos\BTVN-C\BTVN-C\bin\Debug\netcoreapp3.1\BTVN-C.runtimeconfig.json
+C:\Users\DestinyNguyen\source\repos\BTVN-C\BTVN-C\bin\Debug\netcoreapp3.1\BTVN-C.runtimeconfig.dev.json
+C:\Users\DestinyNguyen\source\repos\BTVN-C\BTVN-C\bin\Debug\netcoreapp3.1\BTVN-C.dll
+C:\Users\DestinyNguyen\source\repos\BTVN-C\BTVN-C\bin\Debug\netcoreapp3.1\BTVN-C.pdb
+C:\Users\DestinyNguyen\source\repos\BTVN-C\BTVN-C\obj\Debug\netcoreapp3.1\BTVN-C.csproj.AssemblyReference.cache
+C:\Users\DestinyNguyen\source\repos\BTVN-C\BTVN-C\obj\Debug\netcoreapp3.1\BTVN-C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DestinyNguyen\source\repos\BTVN-C\BTVN-C\obj\Debug\netcoreapp3.1\BTVN-C.AssemblyInfoInputs.cache
+C:\Users\DestinyNguyen\source\repos\BTVN-C\BTVN-C\obj\Debug\netcoreapp3.1\BTVN-C.AssemblyInfo.cs
+C:\Users\DestinyNguyen\source\repos\BTVN-C\BTVN-C\obj\Debug\netcoreapp3.1\BTVN-C.csproj.CoreCompileInputs.cache
+C:\Users\DestinyNguyen\source\repos\BTVN-C\BTVN-C\obj\Debug\netcoreapp3.1\BTVN-C.dll
+C:\Users\DestinyNguyen\source\repos\BTVN-C\BTVN-C\obj\Debug\netcoreapp3.1\BTVN-C.pdb
+C:\Users\DestinyNguyen\source\repos\BTVN-C\BTVN-C\obj\Debug\netcoreapp3.1\BTVN-C.genruntimeconfig.cache
